@@ -4,11 +4,76 @@
   
   
   <entry>
-    <title>hello world</title>
-    <link href="/2026/02/23/hello-world/"/>
-    <url>/2026/02/23/hello-world/</url>
+    <title>OS_LAB1.md</title>
+    <link href="/2026/03/30/OS-LAB1-md/"/>
+    <url>/2026/03/30/OS-LAB1-md/</url>
     
     <content type="html"><![CDATA[]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>CStudy.md</title>
+    <link href="/2026/03/30/CStudy-md/"/>
+    <url>/2026/03/30/CStudy-md/</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>MarkdownStudy.md</title>
+    <link href="/2026/03/30/MarkdownStudy-md/"/>
+    <url>/2026/03/30/MarkdownStudy-md/</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>OS_LAB0.md</title>
+    <link href="/2026/03/30/OS-LAB0-md/"/>
+    <url>/2026/03/30/OS-LAB0-md/</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>JavaStudy.md</title>
+    <link href="/2026/03/30/JavaStudy-md/"/>
+    <url>/2026/03/30/JavaStudy-md/</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Vscode+C语言环境配置的问题</title>
+    <link href="/2026/03/21/Vscode-C%E8%AF%AD%E8%A8%80%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%E7%9A%84%E9%97%AE%E9%A2%98/"/>
+    <url>/2026/03/21/Vscode-C%E8%AF%AD%E8%A8%80%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%E7%9A%84%E9%97%AE%E9%A2%98/</url>
+    
+    <content type="html"><![CDATA[<h1 id="vscode-c语言"><a href="#vscode-c语言" class="headerlink" title="vscode+c语言"></a>vscode+c语言</h1><h2 id="编译器选择"><a href="#编译器选择" class="headerlink" title="编译器选择"></a>编译器选择</h2><ul><li>方法一：建议直接下载devc++，将devc++里的MinGw直接作为vscode中c语言的编译器</li><li>方法二：点击<a href="https://github.com/niXman/mingw-builds-binaries/releases">MinGw</a>跳转,一般来说对于win10,win11系统选择”x86_64-15.2.0-release-win32-seh-ucrt-rt_v13-rev1.7z”下载，用7zip解压即可</li></ul><h2 id="将bin目录加到环境变量里"><a href="#将bin目录加到环境变量里" class="headerlink" title="将bin目录加到环境变量里"></a>将bin目录加到环境变量里</h2><h2 id="下载插件"><a href="#下载插件" class="headerlink" title="下载插件"></a>下载插件</h2><ul><li>coderunner:跑代码</li></ul>]]></content>
     
     
     
